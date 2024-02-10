@@ -4,7 +4,7 @@
   "description": "facebook-clone using Bootstrap 5 and SASS",
   "source": "./index.html",
   "scripts": {
-    "dev": "parcel",
+    "start": "parcel",
     "build": "parcel build"
   },
   "author": "",
