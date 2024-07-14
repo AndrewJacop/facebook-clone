@@ -13,7 +13,7 @@ This project is a fully responsive Facebook clone built using HTML5, CSS3, Boots
 - **Jacklien Kamal** - [GitHub Profile](https://github.com/Jacklien-Kamal) - Games Screen
 - **Abd Elkhalek Mahmoud** - [GitHub Profile](https://github.com/KOOLAF) - Marketplace Screen
 - **Mohammad Ali** - [GitHub Profile](https://github.com/Kohlaa) - Groups Screen
-- **Walid Salah** - [GitHub Profile](https://github.com/BolaSalah) - Profile Screen
+- **Bola Salah** - [GitHub Profile](https://github.com/BolaSalah) - Profile Screen
 
 ## Getting Started
 
